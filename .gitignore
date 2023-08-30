@@ -7,4 +7,4 @@ node_modules
 /_type_test.js
 /_type_test.d.ts
 /_type_test.d.ts.map
-dist
+# dist
